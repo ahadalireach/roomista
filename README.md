@@ -63,8 +63,9 @@
 
 **Live Demo**
 
-- Live Web: [roomista-web.netlify.app](https://roomista-web.netlify.app)
+- Live Web: [roomista-web.netlify.app](https://roomista.netlify.app)
 - GitHub Repo: Give it a Star!
+- Live Video Demo: [Link](https://youtu.be/4KUQfmQZo_w?si=yFpmEXJkzPvewReR)
 
 **Contact**
 
